@@ -1,6 +1,6 @@
-![photo_2025-12-05_03-11-41](https://github.com/user-attachments/assets/f2871f1e-a488-4b74-bc03-af1d7cdaf53f)
 # First Version (Free) is already available [here](https://github.com/diethylmorphine/Ayugram-for-iPhone-bot-analogue-/tree/Free-Version-v0.1)
 
+![photo_2025-12-05_03-11-41](https://github.com/user-attachments/assets/f2871f1e-a488-4b74-bc03-af1d7cdaf53f)
 
 # Ayugram-for-iPhone-(bot-analogue)
 An analog of the Ayugram (Exteragram) app for iPhone users
